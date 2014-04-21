@@ -5,5 +5,7 @@
 by [Michael Hartl](http://michaelhartl.com/).
 
 シンボル
-generate controller
-generate model
+
+rails generate controller Users new --no-test-framework
+rails generate model User name:string email:string
+
