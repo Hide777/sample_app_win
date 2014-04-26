@@ -15,3 +15,4 @@ def sign_in(user)
   # Capybaraを使用していない場合にもサインインする。
   cookies[:remember_token] = user.remember_token
 end
+
