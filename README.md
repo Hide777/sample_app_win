@@ -1,4 +1,4 @@
-2014年5月14日版     OS:CentOS
+2014年5月27日版     OS:WndowsXP
 # Ruby on Rails チュートリアル：サンプルアプリケーション
 
 これは、以下のためのサンプルアプリケーションです。
@@ -9,5 +9,6 @@ by [Michael Hartl](http://michaelhartl.com/).
 rails generate controller Users new --no-test-framework
 rails generate model User name:string email:string
 
-シンボル
+シンボル  :exmaple
+ハッシュ   exmaple:
 
