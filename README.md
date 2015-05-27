@@ -22,4 +22,3 @@ bundle exec rspec spec/models/user_spec.rb
 
 シンボル  :exmaple
 ハッシュ   exmaple:
-
