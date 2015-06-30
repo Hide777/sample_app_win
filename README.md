@@ -20,5 +20,5 @@ bundle exec rake db:reset
 
 bundle exec rspec spec/models/user_spec.rb
 
-シンボル  :exmaple
-ハッシュ   exmaple:
+シンボル  :exmaple	
+ハッシュ   exmaple:	
